@@ -1,0 +1,9 @@
+* cl-adoc
+
+An AsciiDoc parser for Common Lisp.
+
+|---------+---------------------------------------------|
+| source  | git:https://github.com/chrismecca/cl-adoc.git |
+| commit  | 0000000                                     |
+| systems | cl-adoc                                     |
+|---------+---------------------------------------------|
