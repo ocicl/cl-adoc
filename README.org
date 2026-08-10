@@ -4,6 +4,6 @@ An AsciiDoc parser for Common Lisp.
 
 |---------+---------------------------------------------|
 | source  | git:https://github.com/chrismecca/cl-adoc.git |
-| commit  | 2c20b8d                                     |
+| commit  | ca50580                                     |
 | systems | cl-adoc                                     |
 |---------+---------------------------------------------|
